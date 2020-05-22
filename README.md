@@ -11,3 +11,6 @@
 访问<a href="https://greasyfork.org/zh-CN/scripts/403853-%E8%A7%A3%E9%99%A4%E5%AF%B9%E5%88%86%E6%98%93%E5%9C%A8%E7%BA%BF%E7%BB%83%E4%B9%A0%E9%80%89%E4%B8%AD%E5%A4%8D%E5%88%B6%E9%99%90%E5%88%B6">GreasyFork安装页</a>，点击安装脚本，即可完成安装。  
 
 前提：搭配TamperMonkey浏览器插件，安装方法详见<a href="https://greasyfork.org/zh-CN">GreasyFork官方说明</a>
+
+## 注意事项
+**非Chromium内核的EdgeHtml无效，请使用带有Chromium内核的浏览器！**
